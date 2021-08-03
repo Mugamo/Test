@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Aditya/Test/app/src/main/res/drawable/button_background.xml" value="0.17314814814814813" />
+        <entry key="..\:/Aditya/Test/app/src/main/res/layout/activity_dashboard.xml" value="0.1921875" />
+        <entry key="..\:/Aditya/Test/app/src/main/res/layout/activity_forget_pass.xml" value="0.1921875" />
+        <entry key="..\:/Aditya/Test/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Aditya/Test/app/src/main/res/layout/activity_new_pass.xml" value="0.2" />
+        <entry key="..\:/Aditya/Test/app/src/main/res/layout/activity_otp.xml" value="0.1921875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
